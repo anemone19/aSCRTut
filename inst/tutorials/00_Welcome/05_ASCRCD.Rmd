@@ -7,7 +7,7 @@ runtime: shiny_prerendered
 ```{r setup5, include=FALSE}
 # NB if you want to run the chapter on its own, remove the number after setup in the chunk name
 
-source("Chapter5_Setup.R")
+#source("RScripts/Chapter5_Setup.R")
 
 ```
 
