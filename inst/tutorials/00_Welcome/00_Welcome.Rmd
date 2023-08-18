@@ -11,7 +11,7 @@ runtime: shiny_prerendered
 
 source("RScripts/Chapter2_Setup.R")
 source("RScripts/Chapter3_Setup.R")
-#source("RScripts/Chapter5_Setup")
+source("RScripts/Chapter5_Setup.R")
 
 ```
 
@@ -65,4 +65,13 @@ div
 
 ```{r, child='04_ASCR.Rmd'}
 ```
+
+```{r, child='05_ASCRCD.Rmd'}
+```
+
+```{r, child='07_Definitions.Rmd'}
+```
+
+
+
 
